@@ -12,7 +12,7 @@
 
 ```javascript
 /**
- *
+ * function to update the config for the given url
  * @param {string} url - The url of domain
  * @param {Object} config - The config object
  * @param {boolean} [config.disabled] -> Whether the popup is disabled on this site
