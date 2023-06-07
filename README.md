@@ -20,4 +20,5 @@
  * @param {Object} [config.position] -> {x,y} cordinates of the popup
  * @returns {promise} -> Returns true when the config is updataed
  \*/
+ async function updateDomainConfig(url, config) {}
 ```
